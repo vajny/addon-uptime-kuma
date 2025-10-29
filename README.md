@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Uptime Kuma
+# Home Assistant Community Add-on: Vajny Uptime Kuma
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]

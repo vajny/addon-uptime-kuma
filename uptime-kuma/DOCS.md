@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Uptime Kuma
+# Home Assistant Community Add-on: Vajny Uptime Kuma
 
 Uptime Kuma is an open source monitor tools, which can be best
 compared to a self-hosted variant of a commercial service like "Uptime Robot".
@@ -18,16 +18,16 @@ comparison to installing any other Home Assistant add-on.
    [![Open this add-on in your Home Assistant instance.][addon-badge]][addon]
 
 1. Click the "Install" button to install the add-on.
-1. Start the "Uptime Kuma" add-on.
-1. Check the logs of "Uptime Kuma" to see if everything went well.
-1. Click on the "OPEN WEB UI" button to jump into Uptime Kuma.
+1. Start the "Vajny Uptime Kuma" add-on.
+1. Check the logs of "Vajny Uptime Kuma" to see if everything went well.
+1. Click on the "OPEN WEB UI" button to jump into Vajny Uptime Kuma.
 
 Please read the rest of this document further instructions.
 
 ## Configuration
 
 This add-on has no configuration options, everything can be managed
-and configured via the Uptime Kuma interface.
+and configured via the Vajny Uptime Kuma interface.
 
 ## Changelog & Releases
 

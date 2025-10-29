@@ -62,6 +62,9 @@ RUN \
 # Copy root filesystem
 COPY rootfs /
 
+# Expose Uptime Kuma internal API/web port
+EXPOSE 3001
+
 # Build arguments
 ARG BUILD_DATE
 ARG BUILD_DESCRIPTION
